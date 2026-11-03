@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://rawdataangular.github.io/things-to-do",
+  "homepage": "https://rawdataangular.github.io/things-to-do/things-to-do/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
